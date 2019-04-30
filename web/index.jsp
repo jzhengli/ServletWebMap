@@ -17,7 +17,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
     <!-- Google Map js lib -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_K1aIYV0Y0ekjdIn2rcb9rPbmhHv-bgY&libraries=places,visualization"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={Google Maps API key here}&libraries=places,visualization"></script>
 
 
 </head>
